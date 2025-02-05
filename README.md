@@ -32,3 +32,20 @@ Selecione a versão de Python
 
  ![alt text](/imagens/python.png)
 
+Após criado, vamos ativar, vá no terminal do VSCode, use o PrompCmd e digite: cd .venv
+
+Depois digite: cd Scripts
+
+E por último: Activate
+
+![alt text](/imagens/atcvenv.png)
+
+### 3. Instale as dependências
+
+No mesmo PrompCmd, digite 2x como na imagem: cd..
+
+![alt text](/imagens/cd2.png)
+
+Agora digite: pip install -r requirements.txt
+
+![alt text](/imagens/req.png)

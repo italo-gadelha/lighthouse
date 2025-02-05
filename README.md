@@ -1,6 +1,6 @@
-# Projeto de EDA e Machine Learning
+# Projeto Lighthouse
 
-Este projeto é uma análise exploratória de dados (EDA) seguida de um modelo de Machine Learning, desenvolvido em Jupyter Notebook. O objetivo é explorar um conjunto de dados, realizar as etapas de pré-processamento e, finalmente, aplicar algoritmos de aprendizado de máquina para fazer previsões ou classificações.
+Este projeto é uma análise exploratória de dados (EDA) seguida de um modelo de Machine Learning, desenvolvido em Jupyter Notebook. O objetivo objetivo é desenvolver um modelo de previsão de preços a partir do dataset oferecido, e avaliar tal modelo utilizando as métricas de avaliação que mais fazem sentido para o problema.
 
 ## Requisitos
 
@@ -49,3 +49,5 @@ No mesmo PrompCmd, digite 2x como na imagem: cd..
 Agora digite: pip install -r requirements.txt
 
 ![alt text](/imagens/req.png)
+
+Pronto! Pode usar o notebook Lighthouse.ipynb

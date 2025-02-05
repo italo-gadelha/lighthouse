@@ -23,8 +23,12 @@ Clone o repositório do GitHub para sua máquina local.
 
 Precione Ctrl+shift+P no Visual Studio Code, Digite: >Environment e Selecione o seguinte item:
  ![alt text](/imagens/env.png)
+
 Crie uma Venv
+
  ![alt text](/imagens/venv.png)
+
 Selecione a versão de Python
+
  ![alt text](/imagens/python.png)
 
